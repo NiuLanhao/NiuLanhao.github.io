@@ -40,7 +40,35 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
+# 🔥 Projects
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Zhipu Legal Charter: RAG-based Integrated Civil Law Platform](https://github.com/NiuLanhao/legal_rag)
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">03/2024 - 05/2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Zhipu Legal Charter: RAG-based Integrated Civil Law Platform](https://github.com/NiuLanhao/legal_rag)
+
+- Operated the C3RD dataset to cleanse and extract the requisite information, addressing the absence of Keywords by employing the *TextRank* method for keyword extraction to rectify missing values.
+- Implemented the Retrieval-Augmented Generation (RAG) technique, enhanced with the *Zilliz vector database* for cosine similarity matching, facilitating analogous case retrieval in civil litigation.
+- Integrated Keywords with *inverted index* techniques to emulate search engine functionality, mitigating the challenge of ambiguous searches for users unfamiliar with legal jargon.
+- Constructed a civil law awareness platform using *Django* and *Vue*, visualising the aforementioned features on the web interface and introducing administrative functionalities, permitting CRUD operations on the MySQL database for administrators.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">03/2024 - 05/2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Integrated Platform for Classic Text Translation and Learning Based on Large Language Models]
+
+- Utilised *P-Tuning v2* to fine-tune the ChatGLM model, enhancing translation accuracy and fluency for classical texts.
+- Incorporated a manually annotated multilingual corpus from the “Twenty-Four Histories,” offering *translation modes* between classical Chinese, English, and modern Chinese to cater to various user needs. 
+- Developed a *RAG* system focused on classical text translation and learning using the *LlamaIndex framework* and a custom “Xunzi” large language model by Qwen Research Society. 
+- Designed and developed a *WeChat mini-program*, providing users with the capability to read classical texts and translate them from Classical Chinese to English directly on mobile devices.
+
+</div>
+</div>
 
 # 🎖 Honors and Awards
 - *2024.07* [2024 (The 17th) Chinese Collegiate Computing Competition](https://jsjds.blcu.edu.cn/info/1042/1963.htm), First Prize (Top 4%)
