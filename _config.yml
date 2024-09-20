@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Lanhao Niu"
-description              : "Algorithm intern at ZhipuAI. Focusing on LLM, nlp."
+description              : "Algorithm intern at ZhipuAI. Focusing on LLM, NLP."
 repository               : # "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/NiuLanhao"
+  github           : "NiuLanhao"
   google_plus      :
   keybase          :
   instagram        :
