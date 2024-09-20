@@ -26,6 +26,6 @@
 - 待补充
 </div></div>
 
-- <div class="badge">02/2024 - 05/2024</div> [Momentum Analysis: The Movement of Tennis ](https://github.com/NiuLanhao/tennis_momentum_analysis) (American Collegiate Mathematical Modeling Contest-S Award)
-- <div class="badge">01/2023 - 06/2024</div> [Rice Yield Prediction Based on UAV Imagery](https://github.com/NiuLanhao/rice_segmentation) (Innovation and Entrepreneurship Program for University Students in Jiangsu Province)
-- <div class="badge">10/2023 - 11/2023</div> [游客行为分析系统]
+- `02/2024 - 05/2024` [Momentum Analysis: The Movement of Tennis ](https://github.com/NiuLanhao/tennis_momentum_analysis) (American Collegiate Mathematical Modeling Contest-S Award)
+- `01/2023 - 06/2024` [Rice Yield Prediction Based on UAV Imagery](https://github.com/NiuLanhao/rice_segmentation) (Innovation and Entrepreneurship Program for University Students in Jiangsu Province)
+- `10/2023 - 11/2023` [游客行为分析系统]
