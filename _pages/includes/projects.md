@@ -21,7 +21,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">03/2024 - 05/2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[鸟类百科知识图谱](https://github.com/NiuLanhao/legal_rag)
+[BirdKG: Intelligent Recognition System Based on Encyclopedic Knowledge Atlas of Birds](https://github.com/NiuLanhao/BirdKG)
 
 - 待补充
 </div></div>
