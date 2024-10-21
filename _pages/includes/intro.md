@@ -2,4 +2,4 @@ I am **Lanhao Niu (钮兰皓)**, a senior undergraduate student at [Nanjing Agri
 
 My research interests span **natural language processing**, **Large Language Model** and **knowledge graphs**, focusing on how these technologies can be leveraged to solve real-world problems. I am particularly intrigued by the intersection of AI and data science, and how innovations in these fields can drive breakthroughs in various industries.
 
-*I am actively seeking opportunities for a **Master’s Degree** in Artificial Intelligence starting in **Fall 2025**, aiming to deepen my expertise and contribute to cutting-edge AI research and development！！！*
+*✨ I am seeking opportunities for a **Master’s Degree** in Artificial Intelligence starting in **Fall 2025**, aiming to deepen my expertise and contribute to cutting-edge AI research and development！！！*
