@@ -1,6 +1,6 @@
 # 🔥 Projects
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">03/2024 - 07/2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">03/2024 - 07/2024</div><img src='images/translation.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Integrated Platform for Classic Text Translation and Learning Based on Large Language Models](https://github.com/NiuLanhao/NiuLanhao.github.io/blob/main/docs/translation.pdf)
